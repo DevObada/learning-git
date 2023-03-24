@@ -2,6 +2,6 @@
 
 ## This repo was used to learn git from Amigoscode
 
-https://amigosecode.com/courses/git-github
+https://amigoscode.com/courses/git-github
 
 
